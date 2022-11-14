@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economics, Psychology, Philosophy, Gaming, Reading, History.
 - 🌱 I’m currently learning Machine Learning & Data Science from Scaler
 - 💞️ I’m looking to collaborate on ML/DL/AI projects
-- 📫 How to reach me biyaniprasang@gmail.com, https://www.linkedin.com/in/prasangbiyani/
+- 📫 How to reach me biyaniprasang@gmail.com | https://www.linkedin.com/in/prasangbiyani/
 
 ![](https://komarev.com/ghpvc/?username=Prasang-Biyani&color=green&style=plastic)
 <!---
